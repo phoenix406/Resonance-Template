@@ -1,0 +1,46 @@
+body {
+    margin-top:10px;
+}
+
+.img img{
+    width:150px;
+    cursor: pointer;
+    margin-right:100px;
+}
+.navbar {
+    margin-left: 500px;
+    text-decoration: none;
+}
+
+.navbar a{
+    padding: 20px;
+    text-decoration: none;
+
+}
+select{
+    border: none;
+}
+#btn{
+    border-radius: 10px;
+    background-color: rgb(51,93,214);
+}
+
+h1 {
+    font-size: 50px;
+}
+.Hiroimage img{
+    margin-left: 500px;
+    height: 60%;
+    width: 60%;
+    margin-top: -400px;
+    
+}
+#text p{
+    margin-left:750px;
+}
+button{
+    background-color: rgb(51,93,214);
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
